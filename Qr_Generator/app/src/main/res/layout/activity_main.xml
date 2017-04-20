@@ -12,13 +12,13 @@
         android:id="@+id/etqr"
         android:layout_marginTop="10dp"
         android:layout_marginLeft="5dp"
-        android:hint="Enter String" />
+        android:hint="Ingrese un texto" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btn"
-        android:text="Create Image"
+        android:text="Generar QR"
         android:layout_marginTop="10dp"/>
 
     <ImageView
